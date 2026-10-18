@@ -1,0 +1,29 @@
+[
+  {
+    "department": "BSC Computer Science",
+    "year": 3,
+    "start_roll": "2224128001",
+    "count": "29",
+    "raw_list": "",
+    "exempt_checked": false,
+    "excluded_rolls": []
+  },
+  {
+    "department": "BSC Physics",
+    "year": 2,
+    "start_roll": "2225128001",
+    "count": "25",
+    "raw_list": "",
+    "exempt_checked": false,
+    "excluded_rolls": []
+  },
+  {
+    "department": "BSC Chemistry",
+    "year": 1,
+    "start_roll": "2226128001",
+    "count": "27",
+    "raw_list": "",
+    "exempt_checked": false,
+    "excluded_rolls": []
+  }
+]
